@@ -151,9 +151,6 @@ Special thanks to all the amazing open-source projects used in this LMS!
 
 ### 🔗 Useful Links
 
-- **Live Demo**: [LMS Application](https://gouravpandeyvideoconferencing.vercel.app/)
-- **GitHub Repository**: [GitHub Repo](https://github.com/gouravpandey009/video-conferencing)
+- **Live Demo**: [LMS Application](https://tinyurl.com/pandeygourav)
+- **GitHub Repository**: [GitHub Repo](https://github.com/gouravpandey009/Learning-Management-System)
 
----
-
-With this layout, your `README.md` file will be visually appealing, informative, and well-structured with emojis, making it easy to understand.
